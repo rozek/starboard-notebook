@@ -1,8 +1,11 @@
 # 🌑 starboard-notebook
+
 [![NPM badge](https://img.shields.io/npm/v/starboard-notebook)](https://www.npmjs.com/package/starboard-notebook) 
 [![DOI](https://zenodo.org/badge/281976889.svg)](https://zenodo.org/badge/latestdoi/281976889)
 
-In-browser literal notebook runtime used in [**Starboard**](https://starboard.gg). 
+In-browser literal notebook runtime used in [**Starboard**](https://starboard.gg).
+
+> this fork contains a few changes that allowed me to build the packages myself and serve them through GitHub rather than a different CDN
 
 ### **Features**
 * Browser-native
